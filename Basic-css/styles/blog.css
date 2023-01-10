@@ -1,0 +1,20 @@
+.header{
+    height:200px;
+    /* background-image: url('img.jpg'); */
+    background-image: url('../hand.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h3{
+    color: magenta;
+    text-decoration: overline  wavy gray;
+}
+p{
+    color: blue;
+}
+.pagetitle{
+    color: brown;
+    font-weight: 100px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}
